@@ -14,3 +14,7 @@ In this notebook, I am experimenting with combining data from different sources 
 All data presented here only correspond to airports within the US for the month of January 2018.  Data for other time periods (month, year) are availabe at the sites mentioned above.  Similar analysis could be applied to those other time periods by downloading the appropriate data sets.  But, that is beyond the scope of this analysis.
 
 #### (For now, I am not including any weather related plots. These will be added later along with other plots and analysis).
+
+You can view this notebook at [nbviewer](https://nbviewer.jupyter.org/github/anandvl/Flight_onTime_notebook/blob/master/Flight_onTime.ipynb) and if you wish to experiment with the code, you can execute it on mybinder from [nbviewer](https://nbviewer.jupyter.org/github/anandvl/Flight_onTime_notebook/blob/master/Flight_onTime.ipynb), OR you can directly execute it on mybinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anandvl/Flight_onTime_notebook/master?filepath=Flight_onTime.ipynb)
+
+[github.com's notebook viewer](https://github.com/anandvl/Flight_onTime_notebook/blob/master/Flight_onTime.ipynb) also works to view this notebook, but it is supposed to be slower.
